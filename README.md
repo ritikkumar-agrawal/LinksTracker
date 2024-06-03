@@ -1,4 +1,4 @@
-# URL Saver Extension
+# URL Saver (Bookmark) Extension
 
 A simple Chrome extension to save and manage your favorite URLs.
 
