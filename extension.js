@@ -87,7 +87,7 @@ function render(linksArray) {
           <li>
               <div class="left-part">
                   <img src="https://www.google.com/s2/favicons?domain=${linksArray[i].url}" alt="Favicon">
-                  ${titleText}
+                  <a href="${linksArray[i].url}" target="_blank">${titleText}</a>
               </div>
               <div class="right-part">
                   <button class="edit-link-btn" data-index="${i}">
